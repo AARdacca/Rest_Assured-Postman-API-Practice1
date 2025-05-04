@@ -98,6 +98,16 @@ Test results will display detailed logs and validations for each API request and
 ---
 
 ## 📸 Allure Report Screenshot  
+![Image (3)](https://github.com/user-attachments/assets/a3502731-5aa9-4fcb-96c4-bd3d43770297)
+![Image (2)](https://github.com/user-attachments/assets/882dc83c-4a36-420b-a66f-9b1e704d7506)
+![Image (1)](https://github.com/user-attachments/assets/e6211a7c-13f7-46f5-8f8a-a9e1bfcc5ed0)
+
+---
+
+## 🎥 Sample Video of Automation Process
+
+
+https://github.com/user-attachments/assets/a25b72f6-bb97-4658-9934-ecba63ddeee2
 
 
 ---
